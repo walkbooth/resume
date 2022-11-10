@@ -4,4 +4,4 @@ theme:
 repo_url: https://github.com/walkbooth/resume
 docs_dir: docs
 nav:
-- Resume: resume.md
+- Resume: index.md
