@@ -1,12 +1,14 @@
 # Resume
 
-!!! info "Contact"
+## Contact
 
-    LinkedIn: [Walker Booth](https://www.linkedin.com/in/walker-booth-9b1700137/)
+[:fontawesome-solid-phone: +1 (919) 413-1502](tel:919-413-1502)
 
-    Email: [walkbooth@gmail.com](mailto:walkbooth@gmail.com)
+[:fontawesome-solid-envelope: walkbooth@gmail.com](mailto:walkbooth@gmail.com)
 
-    GitHub: [@walkbooth](https://github.com/walkbooth)
+[:fontawesome-brands-linkedin: Walker Booth](https://www.linkedin.com/in/walker-booth-9b1700137/)
+
+[:fontawesome-brands-github: @walkbooth](https://github.com/walkbooth)
 
 ## Work Experience
 
