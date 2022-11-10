@@ -1,24 +1,32 @@
 # Walker Booth
 
+!!! info "Contact"
+
+    LinkedIn: [Walker Booth](https://www.linkedin.com/in/walker-booth-9b1700137/)
+
+    Email: [walkbooth@gmail.com](mailto:walkbooth@gmail.com)
+
+    GitHub: [@walkbooth](https://github.com/walkbooth)
+
 ## Work Experience
 
-### **December 2020 - Present**: InfiniaML, Infrastructure Engineer
+### **InfiniaML, Infrastructure Engineer**: December 2020 - Present
 Durham, NC
 
-* Deployed and maintained several AWS EKS clusters and the services running on them.
+* Deployed and maintained several AWS EKS clusters and the services running on them
 * Developed CI/CD processes for application engineers and data scientists
 * Delivered custom solutions for clients in their AWS and Azure tenants
 * Helped expand the team from 2 to 5 members through interviewing candidates and onboarding new engineers
 
 
-### **May 2020 – August 2020:** Bandwidth, Application Engineer Intern
+### **Bandwidth, Application Engineer Intern:** May 2020 – August 2020
 Raleigh, NC
 
 * Built a Python testing library for live call testing and analysis of SIP packets
 * Designed and implemented a pipeline for compiling OpenSIPS with patches from source and publishing RPMs to Artifactory using Jenkins
 
 
-### **May-December 2018 and 2019:** Oracle, Cloud Development Co-Op
+### **Oracle, Cloud Development Co-Op:** May-December 2018 and 2019
 Morrisville, NC
 
 * Collaboratively developed a Python CLI for interacting with Oracle Cloud Infrastructure Docker image repository services and Object Storage buckets
@@ -37,19 +45,21 @@ Morrisville, NC
 * Programming experience in Python, Golang and Java
 Automation experience with Terraform, Ansible, Bash, GitLab, GitHub, Jenkins
 
-## PROJECTS
+## Projects
 
-### **March 2022:** Deployment of Zalando Postgres Operator to Kubernetes
+### **Deployment of Zalando Postgres Operator to Kubernetes:** March 2022
 * Deployed high-availability Postgres clusters with automatic WAL archiving to S3 and Azure storage
 * Performed minimal-downtime data migrations of legacy database servers to database instances managed by the operator
 
-### **December 2021:** Rate Limiting in Envoy
+### **Rate Limiting in Envoy:** December 2021
 * Configured Envoy to rate-limit requests to our company’s main, multi-tenant application
 * Envoy’s off-the-shelf rate-limiting implementation in Golang lacked support for configuring unique rate limits per OIDC group, so we forked the codebase and I added the feature
 
 ## Education
 
-### **December 2019** North Carolina State University, Raleigh, NC
+### **North Carolina State University:** December 2019
+Raleigh, NC
+
 * Computer Science (B.S.)
 * Cumulative GPA of 4.000
 
