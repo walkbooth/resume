@@ -57,7 +57,7 @@ Automation experience with Terraform, Ansible, Bash, GitLab, GitHub, Jenkins
 
 ## Education
 
-### **North Carolina State University:** December 2019
+### **North Carolina State University:** December 2020
 Raleigh, NC
 
 * Computer Science (B.S.)
