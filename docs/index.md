@@ -45,7 +45,7 @@ Morrisville, NC
 * Familiarity with other cloud providers such as Azure and Openstack
 * Deep interest in contributing to and using open source software - deployed, maintained, and upgraded services in Kubernetes such as Contour, Envoy, Hashicorp Vault, Keycloak, Prometheus, Gitlab Runner, Postgres, Redis, RabbitMQ, and the Elastic stack
 * Programming experience in Python, Golang and Java
-Automation experience with Terraform, Ansible, Bash, GitLab, GitHub, Jenkins
+* Automation experience with Terraform, Ansible, Bash, GitLab, GitHub, Jenkins
 
 ## Projects
 
