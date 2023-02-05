@@ -49,6 +49,11 @@ Morrisville, NC
 
 ## Projects
 
+### **Cost Analysis for Kubernetes and AWS:** November 2022 - present
+* Deployed Kubecost for aggregating and exporting Kubernetes cluster resource usage on a per-workload basis
+* Exported AWS spending via AWS Cost and Usage reports
+* All exported data queryable in Amazon Athena
+
 ### **Deployment of Zalando Postgres Operator to Kubernetes:** March 2022
 * Deployed high-availability Postgres clusters with automatic WAL archiving to S3 and Azure storage
 * Performed minimal-downtime data migrations of legacy database servers to database instances managed by the operator
