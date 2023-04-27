@@ -15,10 +15,12 @@
 ### **InfiniaML, Infrastructure Engineer**: December 2020 - Present
 Durham, NC
 
-* Deployed and maintained several AWS EKS clusters and the services running on them
-* Developed CI/CD processes for application engineers and data scientists
+* Responsible for deployment and upgrades of AWS EKS clusters
+* Led effort of moving our document analysis product to Kubernetes and integrating it with AWS services managed by Terraform
+* Deployed and maintained open source observability tools such as Prometheus, Grafana, Elasticsearch, Fluentd, and Kibana within Kubernetes
+* Developed CI/CD and ML-Ops workflows for application engineers and data scientists
 * Delivered custom solutions for clients in their AWS and Azure tenants
-* Helped expand the team from 2 to 5 members through interviewing candidates and onboarding new engineers
+* Helped expand the team from 2 to 5 members through interviewing candidates and extensive mentorship of new engineers
 
 
 ### **Bandwidth, Application Engineer Intern:** May 2020 – August 2020
@@ -28,7 +30,7 @@ Raleigh, NC
 * Designed and implemented a pipeline for compiling OpenSIPS with patches from source and publishing RPMs to Artifactory using Jenkins
 
 
-### **Oracle, Cloud Development Co-Op:** May-December 2018 and 2019
+### **Oracle, Cloud Development Co-Op:** May-December 2018, May-December 2019
 Morrisville, NC
 
 * Collaboratively developed a Python CLI for interacting with Oracle Cloud Infrastructure Docker image repository services and Object Storage buckets
@@ -39,20 +41,20 @@ Morrisville, NC
 
 ## Skills & Interests
 * Understanding technical needs in infrastructure and how those needs can be met by building or acquiring tooling
-* Impactful communication via professional documentation, processes and standards
+* Utilizing impactful communication via professional documentation, processes and standards
 * Working in minimal-downtime environments - activities such as rolling deployments, DNS switchover, planned maintenance windows, and disaster recovery
 * Experience with cloud-centric applications in AWS that were deployed to EKS clusters, used IAM roles for authentication, S3 buckets and EBS volumes for persistence
 * Familiarity with other cloud providers such as Azure and Openstack
-* Deep interest in contributing to and using open source software - deployed, maintained, and upgraded services in Kubernetes such as Contour, Envoy, Hashicorp Vault, Keycloak, Prometheus, Gitlab Runner, Postgres, Redis, RabbitMQ, and the Elastic stack
+* Deep interest in contributing to and using open source software - deployed, maintained, and upgraded services in Kubernetes such as Contour, Envoy, ArgoCD, Argo Workflows, Hashicorp Vault, Keycloak, Prometheus, Gitlab Runner, Postgres, Redis, RabbitMQ, and the Elastic stack
 * Programming experience in Python, Golang and Java
 * Automation experience with Terraform, Ansible, Bash, GitLab, GitHub, Jenkins
 
 ## Projects
 
-### **Cost Analysis for Kubernetes and AWS:** November 2022 - present
+### **Cost Analysis for Kubernetes and AWS:** November 2022 - February 2023
 * Deployed Kubecost for aggregating and exporting Kubernetes cluster resource usage on a per-workload basis
 * Exported AWS spending via AWS Cost and Usage reports
-* All exported data queryable in Amazon Athena
+* Created Grafana dashboards for querying data via Amazon Athena
 
 ### **Deployment of Zalando Postgres Operator to Kubernetes:** March 2022
 * Deployed high-availability Postgres clusters with automatic WAL archiving to S3 and Azure storage
@@ -60,7 +62,7 @@ Morrisville, NC
 
 ### **Rate Limiting in Envoy:** December 2021
 * Configured Envoy to rate-limit requests to our company’s main, multi-tenant application
-* Envoy’s off-the-shelf rate-limiting implementation in Golang lacked support for configuring unique rate limits per OIDC group, so we forked the codebase and I added the feature
+* Forked Envoy's ratelimiting codebase to support unique rate limits per OIDC group
 
 ## Education
 
